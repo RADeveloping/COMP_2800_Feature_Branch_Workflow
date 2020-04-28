@@ -10,3 +10,6 @@
         margin: 0 auto;
         width: 800px;
     }
+    .clickable {
+cursor:hand;
+}
