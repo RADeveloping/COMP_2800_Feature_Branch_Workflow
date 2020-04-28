@@ -9,5 +9,12 @@
     .container {
         margin: 0 auto;
         width: 800px;
+<<<<<<< HEAD
         text-align: center;
     }
+=======
+    }
+    .clickable {
+cursor:hand;
+}
+>>>>>>> rahim_askarzadeh_feature1_2
